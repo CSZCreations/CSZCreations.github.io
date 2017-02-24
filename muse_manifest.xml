@@ -1,0 +1,42 @@
+<manifest alg="2" build="2017.0.1.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="cszcreations.com" resolutions="1x" timestamp="1487940835655">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="chat-server.css" crc="4150635564" ref="chat-server"/>
+    <file name="about.css" crc="3812515442" ref="about"/>
+    <file name="index.css" crc="372550236" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="logo.png" crc="458154832" seo="true" mt="1483187597000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:chat-server"/>
+    <file name="museutils.js" crc="4148063285" ref="index:about:chat-server"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about:chat-server"/>
+    <file name="museconfig.js" crc="4179431180" ref="index:about:chat-server"/>
+    <file name="jquery.watch.js" crc="437028206" ref="index:about:chat-server"/>
+    <file name="jquery.musemenu.js" crc="3765830709" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="3801019579" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about:chat-server"/>
+    <file name="require.js" crc="4159430777" ref="index:about:chat-server"/>
+  </folder>
+  <folder name="images">
+    <file name="green-light-background-free-vector-85568.jpg" crc="461765726" seo="true" ref="index"/>
+    <file name="u514-5.png" crc="3784173908" ref="index"/>
+    <file name="footericon01.png" crc="147744704" ref="index"/>
+    <file name="footericon02.png" crc="4157289281" ref="index"/>
+    <file name="footericon03.png" crc="188072960" ref="index"/>
+    <file name="white-icon02.png" crc="454308074" seo="true" ref="index"/>
+    <file name="white-icon01.png" crc="315493121" seo="true" ref="index"/>
+    <file name="u517-6.png" crc="170099970" ref="index"/>
+    <file name="white-icon03.png" crc="4265701298" seo="true" ref="index"/>
+    <file name="pattern-89ds.jpg" crc="373298180" ref="index"/>
+    <file name="abstract-green-art-search-wallpapers-digital-images-186450.jpg" crc="4052923258" seo="true" ref="about"/>
+    <file name="name.jpg" crc="4215885720" seo="true" ref="about"/>
+    <file name="u1931-9.png" crc="3880337779" ref="about"/>
+    <file name="u1946-6.png" crc="503785929" ref="about"/>
+    <file name="live-chat.jpg" crc="97270878" seo="true" ref="chat-server"/>
+  </folder>
+  <file name="index.html" crc="3832453066" seo="true" mt="1487940521568" redirect="true"/>
+  <file name="about.html" crc="289925922" seo="true" mt="1487939795574" redirect="true"/>
+  <file name="chat-server.html" crc="4197095161" seo="true" mt="1487940259474" redirect="true"/>
+</manifest>
